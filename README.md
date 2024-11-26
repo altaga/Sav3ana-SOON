@@ -10,7 +10,7 @@ WALLET CODE: [CODE](./Sav3ana/)
 
 PLAYSTORE LINK: [LINK](https://play.google.com/store/apps/details?id=com.altaga.sav3ana.soon)
 
-VIDEODEMO: [VIDEO](pending...)
+VIDEODEMO: [VIDEO](pending...)https://play.google.com/store/apps/details?id=com.altaga.sav3ana.soon
 
 # System Diagram:
 
