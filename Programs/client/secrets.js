@@ -1,0 +1,4 @@
+export const feepayerPrivateKey =
+  "U5p4TiPg9i89TaR99f4BrLZibuwZrd5eKDSN8gUCMGw7EKEJgCwqSvtunQdSQmkV93cibnmy2L17PDX6MwRtYoj";
+export const ownerPrivateKey =
+  "4m2Z8SpWkkdpugUfEQXXbWzWxMCfQqM2J1mgXzPCZch6T1vEqeEmjY3ux9ZJit4gHrvb3yLbUCbgSMrovPZDBmjt";
